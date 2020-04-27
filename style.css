@@ -1,0 +1,30 @@
+body{
+background-color: rgb(204, 255, 199);
+}
+
+
+.titre1{
+font-size: 2em;
+text-align: center;
+margin-left: 1.5em;
+padding: 15px;
+color: rgb(127, 178, 255);
+}
+
+.p1{
+
+justify-content: center;
+font-size: 1.5em;
+color: rgb(51, 43, 43);
+}
+h2{
+margin-left: 50px;
+color: rgb(18, 184, 129);
+}
+ul{
+font-size: 1.4em;
+}
+a{
+text-decoration: none;
+color: blueviolet;
+}
